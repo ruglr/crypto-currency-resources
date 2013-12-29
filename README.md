@@ -2,7 +2,7 @@
 
 A variety of thoughts, liks, tips and resources for various crypto currencies of interest
 
-For any suggestions, please log an issue. Hopefully you can include some details spark my interest
+For any suggestions, please log an issue. Hopefully you can include some details that spark my interest
 
 - [Bitcoin Resources](#bitcoin-resources)
 - [Litecoin Resources](#litecoin-resources)
